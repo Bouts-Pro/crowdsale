@@ -1,0 +1,27 @@
+{
+  "name": "boutspro",
+  "version": "1.0.0",
+  "description": "Solidity Contracts for BoutsPro Token and ICO",
+  "main": "y",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "zeppelin-solidity": "^1.6.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.1"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "BoutsPro"
+  ],
+  "author": "BoutsPro",
+  "license": "MIT"
+}
