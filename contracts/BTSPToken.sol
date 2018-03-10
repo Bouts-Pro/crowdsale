@@ -11,7 +11,7 @@ import "zeppelin-solidity/contracts/token/ERC20/PausableToken.sol";
 contract BTSPToken is MintableMasterToken, PausableToken {
     
     // Metadata
-    string public constant symbol = "BOUT";
+    string public constant symbol = "BOUTS";
     string public constant name = "BoutsPro";
     uint8 public constant decimals = 18;
     string public constant version = "1.0";

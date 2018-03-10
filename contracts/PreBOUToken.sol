@@ -11,8 +11,8 @@ import "./BTSPToken.sol";
 contract PreBOUToken is BTSPToken, Destructible {
 
     // Metadata
-    string public constant symbol = "BOUT";
-    string public constant name = "BoutsPro Token";
+    string public constant symbol = "BOUTS";
+    string public constant name = "BoutsPro";
     uint8 public constant decimals = 18;
     string public constant version = "1.0";
 
